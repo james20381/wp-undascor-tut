@@ -1,0 +1,31 @@
+{
+  "name": "wp-undascor-tut",
+  "version": "1.0.0",
+  "description": "Wordpress theme from scratch using Underscores and a Gulp workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/james20381/wp-undascor-tut.git"
+  },
+  "author": "Morten Rand-Hendriksen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/james20381/wp-undascor-tut/issues"
+  },
+  "homepage": "https://github.com/james20381/wp-undascor-tut#readme",
+  "devDependencies": {
+  "autoprefixer": "^6.5.2",
+  "browser-sync": "^2.17.6",
+  "gulp": "^3.9.1",
+  "gulp-image": "^2.7.2",
+  "gulp-jshint": "^2.0.2",
+  "gulp-newer": "^1.3.0",
+  "gulp-postcss": "^6.2.0",
+  "gulp-sass": "^2.3.2",
+  "gulp-sourcemaps": "^2.2.0",
+  "jshint": "^2.9.4"
+  }
+}
